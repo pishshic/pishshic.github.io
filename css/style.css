@@ -5,3 +5,7 @@ h1 {
     height:200px;
     text-align:center;
 }
+.bx-wrapper {
+    border:0;
+    box-shadow:none;
+}
